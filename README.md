@@ -6,3 +6,9 @@ The purpose of this project was to complete an election audit and submit it to t
 * A breakdown of the  number of votes and percentage of total votes for each county, as well as the breakdown of  the number of votes and the percentage of total votes each candidate received can be seen in the image below. 
 
 
+<img src="election_results.png"/>  
+
+* Denver had the largest number of votes with a total of 82.8%. Jefferson followed second with 10.5%, and Arapahoe last with 6.7%  of the total votes.
+* After auditing the data, the winner of the election was Diana receiving 272,892 votes and received 73.8% of the total votes. 
+## Election-Audit Summary
+The script that was written was very helpful in auditing the election results since it was a large data file. The script can be modified and used for any elections. If you wanted to know the number of voters for each candidate in a specific county, the script could be modified. This could be helpful to know where the candidates had a better turnout rate. Another example is if further details were given in the data file, then the code could be modified to show more results. 
